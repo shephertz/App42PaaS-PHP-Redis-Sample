@@ -15,8 +15,7 @@ Project Configuration:
          app42.paas.db.port = <your_service_port>
          app42.paas.db.password = <your_database_password>
          app42.paas.db.ip = <your_service_ip>
-         app42.paas.db.name = <your_database_name>
-		 
+         
 
 Deploying Application on App42 PaaS using Binary:
 ---------------------------------------------------
